@@ -1,4 +1,4 @@
-# Prueba Full Stack (Angular, Node, MondoDB)
+# Prueba Full Stack (Angular, Node, MongoDB)
 
 ## *Pasos para ejecutar el proyecto
 
